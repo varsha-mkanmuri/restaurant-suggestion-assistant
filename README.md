@@ -1,4 +1,4 @@
-Assignment is part of COMS 6998 Cloud Computing & Big Data course at Columbia University
+This project is part of COMS 6998 Cloud Computing & Big Data course at Columbia University
 
 Personalized Restaurant Recommendations Assistant, using AWS S3, API Gateway, and Lambda. 
 We are using Yelp API for restaurant data, and DynamoDB/OpenSearch for efficient storage.
