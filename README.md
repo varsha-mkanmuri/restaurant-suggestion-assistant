@@ -21,5 +21,5 @@ http://dining-concierge.com.s3-website-us-east-1.amazonaws.com/
       i. Elasticsearch_json_data.ipynb - converts restaurant.csv to restaurant.json (the data format required to be uploaded to OpenSearch)<br>
 4. AI Customer Service API-test-stage-swagger.yaml<br>
 
-Team Members 
+Team Members -
 Smrithi Prakash and Varsha Meghana Kanmuri
