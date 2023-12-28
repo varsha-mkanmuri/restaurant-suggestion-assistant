@@ -1,5 +1,7 @@
-# Assignment 1: Dining Concierge Assistant #
-HW 1 of COMS 6998 Cloud Computing & Big Data class at Columbia University<br>
+Assignment is part of COMS 6998 Cloud Computing & Big Data course at Columbia University
+
+Personalized Restaurant Recommendations Assistant, using AWS S3, API Gateway, and Lambda. 
+We are using Yelp API for restaurant data, and DynamoDB/OpenSearch for efficient storage.
 
 # Link to hosted website
 http://dining-concierge.com.s3-website-us-east-1.amazonaws.com/
@@ -19,6 +21,5 @@ http://dining-concierge.com.s3-website-us-east-1.amazonaws.com/
       i. Elasticsearch_json_data.ipynb - converts restaurant.csv to restaurant.json (the data format required to be uploaded to OpenSearch)<br>
 4. AI Customer Service API-test-stage-swagger.yaml<br>
 
-## Team Members ##
-1. Smrithi Prakash (sp4135)<br>
-2. Varsha Meghana Kanmuri (vk2497)
+Team Members 
+Smrithi Prakash and Varsha Meghana Kanmuri
